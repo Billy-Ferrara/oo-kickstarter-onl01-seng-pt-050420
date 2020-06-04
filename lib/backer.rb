@@ -1,7 +1,7 @@
 class Backer
 
   def initialize(name)
-    @name = name 
+    @name = name
   end 
 
-end 
+end
